@@ -11,5 +11,4 @@ broccoli_totaalprijs = broccoli_prijs * broccoli_bestelling_find_int
 
 print(f"Prei kost {prei_prijs} euro per kilo")
 print(int(prei_bestelling_int))
-
 print(f"{broccoli_bestelling_find} kilo broccoli kost {round(broccoli_totaalprijs, 2)} euro")
